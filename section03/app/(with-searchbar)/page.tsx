@@ -1,4 +1,4 @@
-import Searchbar from "@/app/(with-searchbar)/searchbar";
+import Searchbar from "@/components/searchbar";
 
 export default function Home() {
     return (
